@@ -278,5 +278,3 @@ for (index, value) in enumerate(shoppingList2) {
 
 ///创建并构造一个数组
 var someInts = [Int]();
-
-
