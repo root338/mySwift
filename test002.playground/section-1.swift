@@ -463,3 +463,4 @@ struct TimesTable {
 let threeTimesTable = TimesTable(multiplier: 3);
 println("3的6倍是\(threeTimesTable[6])");
 
+
